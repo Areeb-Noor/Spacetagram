@@ -1,0 +1,54 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #e3e3e1;
+}
+
+.topper {
+  background-image: url("https://w0.peakpx.com/wallpaper/857/837/HD-wallpaper-rocket-to-space-amoled-astronomy-black-lighthouse-ship.jpg");
+  text-align: center;
+  font-size: 5rem;
+  margin: 1rem auto;
+  border: 1px solid black;
+  padding: 1rem;
+  color: #c8c8c3;
+  text-decoration: underline;
+}
+
+.titles {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: 10rem;
+  margin-bottom: 0.5rem;
+}
+
+.description {
+  width: 30%;
+  margin: 1.5rem auto;
+  margin-top: 0;
+  font-size: 1.3rem;
+  border-left: 2px solid #73737e;
+  border-bottom: 2px solid #73737e;
+  border-right: 2px solid #73737e;
+  border-top: 1.5px solid #73737e;
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+
+.images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-left: 2px solid #73737e;
+  border-left: 2px solid #73737e;
+  border-top: 2px solid #73737e;
+  border-right: 2px solid #73737e;
+  border-right: 2px solid #73737e;
+  border-radius: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
